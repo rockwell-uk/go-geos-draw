@@ -16,8 +16,8 @@ github.com/rockwell-uk/go-draw v1.0.0 h1:JkhNAl7ekjx463g2ZDojoq4hOTi6sGUL6PIjVTt
 github.com/rockwell-uk/go-draw v1.0.0/go.mod h1:wIxz9Nnm3vdR589o6a1nbZkZNRuvSTOPGjyAvHP3tug=
 github.com/rockwell-uk/go-text v1.0.0 h1:IbN9g9sBOV9HPxKgGMS7Xl+jbn3eB5moq0HN+NCuQFg=
 github.com/rockwell-uk/go-text v1.0.0/go.mod h1:hVh4K6N/Hh4j3n8ktAzVfbpd+XaQ9pI+0YZAhm9RtN0=
-github.com/twpayne/go-geos v0.13.1 h1:z9eL6XbkJc/BZhxrKPOeDZN2I/2NXjXWaJ1UA7fDjhc=
-github.com/twpayne/go-geos v0.13.1/go.mod h1:DdtpdCqA2PDHXN54xgvScmp7p8D0XwS/tvDJsyfBSfU=
+github.com/twpayne/go-geos v0.13.2 h1:kyQenUwpU+mGrNX403KNlRDuIIIL22OHVVj1SGfXUm0=
+github.com/twpayne/go-geos v0.13.2/go.mod h1:r5O89NwzDqYqiDF5HnkYjdgJtODwzpjeNlj/gL9ztXk=
 github.com/yuin/goldmark v1.4.13/go.mod h1:6yULJ656Px+3vBD8DxQVa3kxgyrAnzto9xy5taEt/CY=
 golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2/go.mod h1:djNgcEr1/C05ACkg1iLfiJU5Ep61QUkGW8qpdssI0+w=
 golang.org/x/crypto v0.0.0-20210921155107-089bfa567519/go.mod h1:GvvjBRRGRdwPK5ydBHafDWAxML/pGHZbMvKqRZ5+Abc=
