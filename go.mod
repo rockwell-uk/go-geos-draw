@@ -7,7 +7,7 @@ require (
 	github.com/rockwell-uk/go-draw v1.0.0
 	github.com/rockwell-uk/go-text v1.0.0
 	github.com/twpayne/go-geos v0.13.1
-	golang.org/x/image v0.6.0
+	golang.org/x/image v0.7.0
 )
 
 require (
